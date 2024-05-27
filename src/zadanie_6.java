@@ -5,7 +5,7 @@ public class zadanie_6 {
     }
     public static void verifyNumber(int number) {
         if (number >=0) {
-            System.out.println("Число положительно");
+            System.out.println("Число положительное");
         }
         else {
             System.out.println("Число отрицательное");
