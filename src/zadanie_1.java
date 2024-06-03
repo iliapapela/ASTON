@@ -10,8 +10,8 @@ class Sotrudnik {
     private String jobTitle;
     private String email;
     private String phone;
-    private double salary; // Используем тип double для зарплаты
-    private int age;       // Используем тип int для возраста
+    private double salary;
+    private int age;
 
     public Sotrudnik(String FIO, String jobTitle, String email, String phone, double salary, int age) {
         this.FIO = FIO;
